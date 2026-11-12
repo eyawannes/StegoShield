@@ -63,4 +63,4 @@ output_file = "extracted.pdf"
 with open(output_file, "wb") as f:
     f.write(decrypted_data)
 
-print(f"📎 PDF reconstruit : {output_file}")
+print(f"PDF reconstruit : {output_file}")
